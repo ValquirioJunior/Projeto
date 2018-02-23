@@ -10,7 +10,7 @@
 
    
    if(isset($_POST["codigoadmin"]))
-{
+{asdasdqsdadasdasdad
   $codigoadmin=$_REQUEST["codigoadmin"];
   $loginadmin=$_REQUEST["loginadmin"];
   $senhaadmin=$_REQUEST["senhaadmin"];
